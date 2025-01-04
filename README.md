@@ -9,7 +9,7 @@ A simple web application that randomly selects a choice from a list of options. 
 - Randomly selects a choice from a predefined list.
 - User-friendly interface.
 - Lightweight and fast.
-
+ 
 ## Demo
 
 Project-Overview.png
